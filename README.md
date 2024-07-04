@@ -13,4 +13,5 @@
 [JavaScript Projects](https://www.youtube.com/playlist?list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3)
 
 # CodingLab Sidebar Menu
+## Acknowledgements
 [How to make Sidebar Menu in HTML CSS & JavaScript](https://www.youtube.com/watch?v=dEdwDijoceY)
